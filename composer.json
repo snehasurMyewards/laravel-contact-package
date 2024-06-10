@@ -1,5 +1,5 @@
 {
-    "name": "codecaptain/laravelpackage",
+    "name": "codecaptain/laravelcontactpackage",
     "description": "This will send email to admin and save contact query in database",
     "type": "library",
     "license": "MIT",
