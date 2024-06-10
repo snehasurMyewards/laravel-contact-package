@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <h1>Contact Us any time</h1>
+    <h1>Contact Us any time from package</h1>
     <form action="{{ route('contact') }}" method="post">
         @csrf
         <div>

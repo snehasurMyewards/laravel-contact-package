@@ -1,4 +1,4 @@
 <?php
 return [
-        'send_email_to' => 'snehasur.myewards@gmail.com'
+        'send_email_to' => 'frompackage.myewards@gmail.com'
 ];
